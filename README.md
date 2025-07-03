@@ -48,4 +48,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Deployed Link [visual-repo.vercel.app](visual-repo.vercel.app)
+## Deployed Link ([visual-repo.vercel.app](https://visual-repo.vercel.app/))
